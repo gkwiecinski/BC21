@@ -1,0 +1,32 @@
+{
+  "id": "e233c649-0418-481d-ab48-8221f0a846c1",
+  "name": "BC21",
+  "publisher": "Grzegorz Kwieiciński",
+  "version": "1.0.0.0",
+  "brief": "Apllication for educational purposes",
+  "description": "This extension is use to learn and teach",
+  "privacyStatement": "https://www.gkwiecinski.pl/privacyStatement",
+  "EULA": "https://www.gkwiecinski.pl/privacyStatement",
+  "help": "g.kwiecinski.4dev@hotmail.com",
+  "url": "https://www.gkwiecinski.pl",
+  "logo": "logo.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "21.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "10.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
