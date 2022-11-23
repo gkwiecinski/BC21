@@ -6,6 +6,6 @@ Functional:
 2. Add webservice to fill data using SOAP
 
 Techncial:
-1. Configiure Ninja AdOnn
+1. Configiure Ninja AddOn
 2. Prepare test code unit /test runner
 3. Configure pipelines
