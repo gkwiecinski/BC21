@@ -7,7 +7,7 @@
   "description": "This extension is use to learn and teach",
   "privacyStatement": "https://www.gkwiecinski.pl/privacyStatement",
   "EULA": "https://www.gkwiecinski.pl/privacyStatement",
-  "help": "g.kwiecinski.4dev@hotmail.com",
+  "help": "https://www.gkwiecinski.pl",
   "url": "https://www.gkwiecinski.pl",
   "logo": "logo.png",
   "dependencies": [],
@@ -28,5 +28,6 @@
   "runtime": "10.0",
   "features": [
     "NoImplicitWith"
-  ]
+  ],
+  "target": "Cloud"
 }
