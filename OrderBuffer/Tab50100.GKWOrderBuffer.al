@@ -2,7 +2,7 @@ table 50100 "GKW Order Buffer"
 {
     Caption = 'GKW Order Buffer';
     DataClassification = ToBeClassified;
-    
+
     fields
     {
         field(1; ID; Integer)
@@ -11,6 +11,11 @@ table 50100 "GKW Order Buffer"
             DataClassification = ToBeClassified;
         }
         field(2; Name; Text[50])
+        {
+            Caption = 'Name';
+            DataClassification = ToBeClassified;
+        }
+        field(3; Citi; Text[50])
         {
             Caption = 'Name';
             DataClassification = ToBeClassified;
