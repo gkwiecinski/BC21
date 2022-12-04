@@ -18,7 +18,7 @@ table 50100 "GKW Order Buffer"
         field(3; Citi; Text[50])
         {
             Caption = 'Name';
-            DataClassification = ToBeClassified;
+            DataClassification = CustomerContent;
         }
     }
     keys
