@@ -1,4 +1,4 @@
 .vscode/
 .snapshot/
 .alpackages/
-*.app
+/*.app
